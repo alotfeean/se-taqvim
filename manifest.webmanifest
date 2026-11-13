@@ -1,0 +1,17 @@
+{
+  "name": "سه‌تقویم",
+  "short_name": "سه‌تقویم",
+  "description": "تقویم شمسی، میلادی و قمری با کارها، یادآور و سالنامه",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f4f5",
+  "theme_color": "#14466b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
